@@ -9,7 +9,11 @@
   "clientSecret": null,
   "userId": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
   ],
   "domoClientId": null,
   "domoClientSecret": null,
@@ -24,7 +28,7 @@
   "processData": null,
   "reports": null,
   "advancedReports": null,
-  "authorName": null,
+  "authorName": "Savita Shinde",
   "accesstokenMethod": null,
   "tokenAddlParams": null,
   "visibilityType": null,
